@@ -1,6 +1,6 @@
 // Assignment Code
 
-var generateBtn = document.querySelector('#generate');
+let generateBtn = document.querySelector('#generate');
 
 
 function generatePassword(){
