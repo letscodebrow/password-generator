@@ -1,2 +1,0 @@
-This is a  random password generator: which generates a minimum of 8 characters and up to 128.
-The user has the option to select the total of characters from 8-128 including the all lower and upper alfabet, numbers and special characters. 
